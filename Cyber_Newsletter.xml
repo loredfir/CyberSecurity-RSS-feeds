@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of loredfir tagged as Cyber_Newsletter from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Cyber_Newsletter" title="Cyber_Newsletter">
+      <outline text="Risky.Biz" title="Risky.Biz" type="rss" xmlUrl="https://news.risky.biz/rss/" htmlUrl="https://news.risky.biz/"/>
+      <outline text="DFIR – The Definitive Compendium Project" title="DFIR – The Definitive Compendium Project" type="rss" xmlUrl="https://aboutdfir.com/feed/" htmlUrl="https://aboutdfir.com"/>
+      <outline text="DIGITAL CONFLICTS" title="DIGITAL CONFLICTS" type="rss" xmlUrl="https://conflicts.digital/feed" htmlUrl="https://conflicts.digital/"/>
+      <outline text="OSINT Newsletter" title="OSINT Newsletter" type="rss" xmlUrl="https://osintnewsletter.com/feed" htmlUrl="https://osintnewsletter.com/"/>
+      <outline text="Detection Engineering" title="Detection Engineering" type="rss" xmlUrl="https://www.detectionengineering.net/feed" htmlUrl="https://www.detectionengineering.net/"/>
+      <outline text="This Week In 4n6" title="This Week In 4n6" type="rss" xmlUrl="https://thisweekin4n6.com/feed/" htmlUrl="https://thisweekin4n6.com/"/>
+      <outline text="Guerre di Rete" title="Guerre di Rete" type="rss" xmlUrl="https://guerredirete.substack.com/feed" htmlUrl="https://guerredirete.substack.com/"/>
+    </outline>
+  </body>
+</opml>

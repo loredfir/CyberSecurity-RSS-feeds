@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of loredfir tagged as Cyber_Mainstream from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Cyber_Mainstream" title="Cyber_Mainstream">
+      <outline text="Dark Reading" title="Dark Reading" type="rss" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com/"/>
+      <outline text="Csirt Italia" title="Csirt Italia" type="rss" xmlUrl="https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192" htmlUrl="https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192"/>
+      <outline text="404 Media" title="404 Media" type="rss" xmlUrl="https://www.404media.co/rss/" htmlUrl="https://www.404media.co/"/>
+      <outline text="bellingcat" title="bellingcat" type="rss" xmlUrl="https://www.bellingcat.com/feed/" htmlUrl="https://www.bellingcat.com/"/>
+      <outline text="Exposing the invisible" title="Exposing the invisible" type="rss" xmlUrl="https://exposingtheinvisible.org/rss.xml" htmlUrl="https://exposingtheinvisible.org/"/>
+      <outline text="Cronache Digitali" title="Cronache Digitali" type="rss" xmlUrl="https://marcogovoni.it/rss/" htmlUrl="https://marcogovoni.it/"/>
+      <outline text="Guerre di Rete" title="Guerre di Rete" type="rss" xmlUrl="https://www.guerredirete.it/feed/" htmlUrl="https://www.guerredirete.it/"/>
+      <outline text="Red Hot Cyber" title="Red Hot Cyber" type="rss" xmlUrl="https://www.redhotcyber.com/feed/" htmlUrl="https://www.redhotcyber.com/"/>
+      <outline text="Security Affairs" title="Security Affairs" type="rss" xmlUrl="https://securityaffairs.co/wordpress/feed" htmlUrl="https://securityaffairs.co/wordpress"/>
+      <outline text="The Record by Recorded Future" title="The Record by Recorded Future" type="rss" xmlUrl="https://therecord.media/feed/" htmlUrl="https://therecord.media/"/>
+      <outline text="DFIR and Threat Hunting" title="DFIR and Threat Hunting" type="rss" xmlUrl="https://findingbad.blogspot.com/feeds/posts/default" htmlUrl="https://findingbad.blogspot.com/"/>
+      <outline text="/r/netsec - Information Security News &amp; Discussion" title="/r/netsec - Information Security News &amp; Discussion" type="rss" xmlUrl="https://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
+      <outline text="BleepingComputer.com" title="BleepingComputer.com" type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="http://www.bleepingcomputer.com/forums/f/2/news/"/>
+      <outline text="Office of Inadequate Security" title="Office of Inadequate Security" type="rss" xmlUrl="https://www.databreaches.net/feed/" htmlUrl="https://www.databreaches.net/"/>
+      <outline text="Cyberscoop" title="Cyberscoop" type="rss" xmlUrl="https://www.cyberscoop.com/feed/" htmlUrl="https://www.cyberscoop.com/"/>
+      <outline text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" type="rss" xmlUrl="https://isc.sans.edu/rssfeed_full.xml" htmlUrl="https://isc.sans.edu/"/>
+      <outline text="nytimes - Computer Security (Cybersecurity)" title="nytimes - Computer Security (Cybersecurity)" type="rss" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/topic/subject/computer-security-cybersecurity/rss.xml" htmlUrl="http://www.nytimes.com/topic/subject/computer-security-cybersecurity"/>
+      <outline text="Krebs on Security" title="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
+      <outline text="Wired - Security Latest" title="Wired - Security Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/security/latest/rss" htmlUrl="https://www.wired.com/category/security/latest"/>
+      <outline text="The Hacker News" title="The Hacker News" type="rss" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="http://thehackernews.com/"/>
+      <outline text="Offensive Security" title="Offensive Security" type="rss" xmlUrl="https://www.offensive-security.com/feed/" htmlUrl="https://www.offensive-security.com/"/>
+      <outline text="Active Directory Security" title="Active Directory Security" type="rss" xmlUrl="https://adsecurity.org/?feed=rss2" htmlUrl="https://adsecurity.org/"/>
+      <outline text="Threatpost | The first stop for security news" title="Threatpost | The first stop for security news" type="rss" xmlUrl="https://threatpost.com/feed/" htmlUrl="https://threatpost.com/"/>
+      <outline text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com/blog/"/>
+    </outline>
+  </body>
+</opml>
